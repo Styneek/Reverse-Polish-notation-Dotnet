@@ -1,0 +1,13 @@
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/bin/Debug/net7.0/RPN.deps.json
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/bin/Debug/net7.0/RPN.dll
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/bin/Debug/net7.0/RPN.pdb
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.csproj.AssemblyReference.cache
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.AssemblyInfoInputs.cache
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.AssemblyInfo.cs
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.csproj.CoreCompileInputs.cache
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.sourcelink.json
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.dll
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/refint/RPN.dll
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/RPN.pdb
+/Users/kamil/Desktop/studia/dotnet/projekt1/dotnet-zaoczne-ug-2026-z-01-cs-rpn-styneek/RPN/RPN/obj/Debug/net7.0/ref/RPN.dll
